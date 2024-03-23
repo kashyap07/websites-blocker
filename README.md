@@ -1,5 +1,6 @@
 # websites-blocker
 v1, CLI for now
+written using GitHub Copilot for the most part lol
 
 ## What is it
 This script blocks/unblocks websites specified in "websites.txt" file.
